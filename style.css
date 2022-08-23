@@ -1,0 +1,10 @@
+.autoCopy:hover{
+	cursor: pointer;
+	background-color: lightgray;
+}
+
+.copy-msg{
+	display: block;
+	font-size: 0.8em;
+	color: #00ae00;
+}
